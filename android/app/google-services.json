@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "192632998692",
+    "project_id": "galchilalo2",
+    "storage_bucket": "galchilalo2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192632998692:android:30d5290865795a0345c1b1",
+        "android_client_info": {
+          "package_name": "com.example.appucv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192632998692-qt09fb00lvnbhuthpmd64qk3mua53lss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp-NmbUDk0hLYUzur9ORjRBLMEKyxPHdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192632998692-qt09fb00lvnbhuthpmd64qk3mua53lss.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "192632998692-rsua8i91i32jgjjqre7s9bs286vnskv4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appucv2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
